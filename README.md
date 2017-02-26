@@ -27,6 +27,8 @@ The project currently utilizes
     - Modified GRBL Firmware ( see https://github.com/tgit23/GRBL-28byj-48-Servo )
     - Grbl Controller Software ( see http://zapmaker.org/projects/grbl-controller-3-0/ )
 
+You can load a file from the \nc-examples folder into grbl controller for controller
+testing.
 -----------------------------------------------------------------------------------
 CONTRIBUTING
 -----------------------------------------------------------------------------------
