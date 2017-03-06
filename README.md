@@ -30,7 +30,7 @@ The project currently utilizes
 You can load a file from the \nc-examples folder into grbl controller for controller
 testing.
 
-Example Video @ https://youtu.be/CYXkFdmcM_A
+Example Video @ https://youtu.be/4aUQkjFIM5M
 
 -----------------------------------------------------------------------------------
 CONTRIBUTING
