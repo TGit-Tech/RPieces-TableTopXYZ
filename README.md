@@ -23,7 +23,7 @@ RPieces-TableTopXYZ is still in a development phase and has no official releases
 Building this project requires
 
     - (1) 3D Printer with a build surface of at least 190mm x 190mm   ... $N/A
-    - (1) Arduino UNO microcontroller                                 ... $ 3.34
+    - (1) Arduino UNO microcontroller / half breadboard / jumper kit  ... $10.19
     - (4) 28BYJ-48 Stepper Motors with ULN2003 Drivers                ... $10.34
     - (~20) Male to Female Dupont jumpers                             ... $ 2.20
     - (1) 5Vdc Wall-module Power Supply adapter at ~2A                ... $ 3.10
@@ -34,7 +34,8 @@ Building this project requires
     - Modified GRBL Firmware @ https://github.com/tgit23/GRBL-28byj-48-Servo
     - Grbl Controller Software @ http://zapmaker.org/projects/grbl-controller-3-0/
 
-TOTAL ESTIMATED COST (not including filament): $21.22
+TOTAL ESTIMATED COST (not including filament): $28.07
+Detailed items/cost inside the Assembly document linked below.
 
 -----------------------------------------------------------------------------------
 #Getting Started
