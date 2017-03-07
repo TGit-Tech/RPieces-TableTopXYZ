@@ -20,7 +20,6 @@ RPieces-TableTopXYZ is still in a development phase and has no official releases
 -----------------------------------------------------------------------------------
 #ABOUT
 -----------------------------------------------------------------------------------
-<<<<<<< HEAD
 Building this project requires
 
     - (1) 3D Printer with a build surface of at least 190mm x 190mm   ... $N/A
@@ -49,16 +48,6 @@ the 'grbl controller' command interface by entering the following commands.
     - $112=120
     
 You can now load a file from the \nc-examples folder into grbl controller for unit
-=======
-The project currently utilizes
-
-    - Arduino UNO microcontroller
-    - (4) 28BYJ-48 Stepper Motors with ULN2003 Drivers
-    - Modified GRBL Firmware @ [https://github.com/tgit23/GRBL-28byj-48](https://github.com/tgit23/GRBL-28byj-48) )
-    - Grbl Controller Software @ [http://zapmaker.org/projects/grbl-controller-3-0/] )
-
-You can load a file from the \nc-examples folder into grbl controller for controller
->>>>>>> 2f9725312e2848ff7ff048280718451dadff6fa1
 testing.
 
 Example Video @ https://youtu.be/4aUQkjFIM5M
