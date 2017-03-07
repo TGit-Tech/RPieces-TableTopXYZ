@@ -18,7 +18,7 @@ abbreviation in RPieces naming convention )
 RPieces-TableTopXYZ is still in a development phase and has no official releases.  
 
 -----------------------------------------------------------------------------------
-#ABOUT
+#Cost and Materials
 -----------------------------------------------------------------------------------
 Building this project requires
 
@@ -35,6 +35,13 @@ Building this project requires
     - Grbl Controller Software @ http://zapmaker.org/projects/grbl-controller-3-0/
 
 TOTAL ESTIMATED COST (not including filament): $21.22
+
+-----------------------------------------------------------------------------------
+#Getting Started
+-----------------------------------------------------------------------------------
+Assembly document can be found @ https://github.com/tgit23/RPieces-TableTopXYZ/blob/master/docs/RPieces-TableTopXYZ-User-Assembly.pdf
+
+I.e. /docs/RPieces-TableTopXYZ-User-Assembly.pdf
 
 Before trying to control the model;  Setup the parameters of 'grbl' firmware through
 the 'grbl controller' command interface by entering the following commands.
