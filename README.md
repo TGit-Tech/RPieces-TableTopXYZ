@@ -31,7 +31,7 @@ Building this project requires
     - (8) #6-32 x 1-1/4" Long Machine Screws or equivalent            ... $ 0.40
     - (4) #6-32 x 3/4" Long Machine Screws or equivalent              ... $ 0.20
     - (26) Corresponding hex nuts (#6) for machine screws             ... $ 1.30
-    - Modified GRBL Firmware @ https://github.com/tgit23/GRBL-28byj-48-Servo
+    - Modified GRBL Firmware @ https://github.com/tgit23/GRBL-28byj-48
     - Grbl Controller Software @ http://zapmaker.org/projects/grbl-controller-3-0/
 
 TOTAL ESTIMATED COST (not including filament): $28.07
